@@ -6,7 +6,7 @@ This project demonstrates end-to-end healthcare analytics using SQL Server and P
 
 ## Tools & Technologies
 
-- SQL Server (T-SQL)
+- SQL Server 
 - Power BI
   
 
