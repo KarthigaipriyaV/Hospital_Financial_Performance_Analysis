@@ -8,8 +8,7 @@ This project demonstrates end-to-end healthcare analytics using SQL Server and P
 
 - SQL Server (T-SQL)
 - Power BI
-- DAX (dashboard measures)
-- Git & GitHub
+  
 
 ## Project Objectives
 
