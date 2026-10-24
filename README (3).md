@@ -49,8 +49,6 @@ This project demonstrates end-to-end healthcare analytics using SQL Server and P
 
 ## SQL Analysis
 
-Script: [`sql/healthcare_financial_risk_analysis.sql`](sql/healthcare_financial_risk_analysis.sql)
-
 | Section | Focus |
 |---|---|
 | 1–2 | Database setup and data cleaning: row counts, data types, `START`/`STOP` → `DATETIME2`, cost columns → `DECIMAL(18,2)`, nulls, duplicates, negative values, coverage above claim cost, invalid dates |
@@ -76,8 +74,6 @@ Script: [`sql/healthcare_financial_risk_analysis.sql`](sql/healthcare_financial_
 - Business KPI queries
 
 ## Power BI Dashboard
-
-File: [`powerbi/Healthcare_Dashboard.pbix`](powerbi/Healthcare_Dashboard.pbix)
 
 **Patient Encounter Cost and Risk Analysis in Healthcare Systems**
 
