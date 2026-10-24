@@ -10,7 +10,7 @@ Analyzing healthcare encounter, patient, procedure and payer data to uncover fin
 
 Evaluate financial risk by identifying uncovered costs, high-cost patients, key risk factors and payer contributions across healthcare encounters.
 
-## 🛠 Tech Stack
+## 🛠 Tools
 
 | Category | Tools |
 |---|---|
